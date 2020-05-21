@@ -7,6 +7,11 @@ Site / application responsive qui répertorie tous les pays du monde et affiche 
 * VueJS
 * Vue Router
 
+## Fonctionnalités
+### Fait
+- [x] Mobile responsive
+- [x] Fonction de recherche / filtre pays dans la liste
+
 Librairies
 
 * Vuetify (composant v-autocomplete)
